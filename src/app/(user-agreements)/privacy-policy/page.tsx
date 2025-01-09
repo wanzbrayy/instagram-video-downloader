@@ -29,13 +29,10 @@ const PrivacyPolicyPage = () => {
           2. Third-Party Advertising and Analytics
         </h2>
         <p className="mb-2">
-          <span className="font-semibold">2.1.</span> We use third-party
-          advertising services, such as Google AdSense, to serve advertisements
-          on the Website. These third parties may use cookies, web beacons, and
-          other tracking technologies to collect information about your use of
-          the Website and other websites, including your IP address, browser
-          type, internet service provider, referring/exit pages, and date/time
-          stamp. For more information, please visit
+          <span className="font-semibold">2.1.</span> Kami menggunakan layanan iklan pihak ketiga,
+          seperti Google AdSense, untuk menayangkan iklan di Situs Web.
+          Pihak ketiga ini dapat menggunakan cookie, suar web, 
+          dan pelacak lainnya
           <a
             target="_blank"
             href="https://www.privacypolicies.com/blog/privacy-policy-google-adsense/"
